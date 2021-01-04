@@ -1,4 +1,6 @@
 #! This is my First case study
-
+<<<<<<< HEAD
 echo "Hi this is Feature1"
+=======
 echo "This is feature2"
+>>>>>>> feature2
